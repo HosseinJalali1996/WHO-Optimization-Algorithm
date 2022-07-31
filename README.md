@@ -3,7 +3,7 @@
 - *The `article` of this optimization algorithm is [here](https://doi.org/10.1007/s00366-021-01438-z).*
 - *The `Matlab code` of this optimization algorithm is [here]( https://www.mathworks.com/matlabcentral/fileexchange/90787-wild-horse-optimizer).*
 ## *How run this program*!!! 🏁
-1. **Download all `.py` files.**
-2. **Open `the The_Main_WHO` file and run it.**
-3. **finish.** 💣
-4. ***Another way is to use the jupyter notebook `.ipynb` file to run this optimizer.*** 
+- **Download all `.py` files.**
+- **Open `the The_Main_WHO` file and run it.**
+- **finish.** 💣
+> ***Another way is to use the jupyter notebook `.ipynb` file to run this optimizer.*** 
